@@ -3,10 +3,10 @@
 
 repos:
 - repo: https://github.com/dev-build-deploy/commit-me
-  rev: v0.12.1
+  rev: v1.3.1
   hooks:
   - id: commit-me
 - repo: https://github.com/dev-build-deploy/reuse-me
-  rev: v0.8.0
+  rev: v1.0.0
   hooks:
   - id: reuse-me
